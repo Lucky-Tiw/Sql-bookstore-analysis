@@ -7,7 +7,7 @@ This project demonstrates the use of **SQL queries** to analyze data from three 
 - **Orders.csv** → Order information (which customer bought which book, quantity, total spent).
 
 The queries in **Queries.sql** focus on:
-- Customer purchase behavior
+- Customer purchase behaviour
 - Book sales trends
 - Revenue generation
 
