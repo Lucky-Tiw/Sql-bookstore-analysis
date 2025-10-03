@@ -42,7 +42,7 @@ The queries in **Queries.sql** focus on:
 | CustomerID  | Foreign key → Customers(CustomerID) |
 | BookID      | Foreign key → Books(BookID) |
 | Quantity    | Number of books ordered |
-| TotalAmount   | Total amount spent |
+| TotalAmount | Total amount spent |
 
 ---
 
