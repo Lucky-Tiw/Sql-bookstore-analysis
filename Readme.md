@@ -51,7 +51,7 @@ The `Queries.sql` file includes queries such as:
 - Find top-selling books  
 - Calculate total revenue  
 - Identify most valuable customers  
-- Track orders by city or date   
+- Track orders by genre  
 
 ---
 
